@@ -1,2 +1,1 @@
-# django-
-django project
+<h1>My Django App</h1>
