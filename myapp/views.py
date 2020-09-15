@@ -6,10 +6,7 @@ from django.urls import reverse
 from django.views import generic
 from django.template import loader
 from django.utils import timezone
-
-#from myapp.models import Question
 from .models import Question
-#from myapp.models import Choice, Question
 from .models import Choice,Question
 # Create your views here.
 #def index(request):
