@@ -108,8 +108,6 @@ class QuestionIndexViewTests(TestCase):
         )    
 
 
-
-
 class QuestionDetailViewTests(TestCase):
     def test_future_question(self):
         """
